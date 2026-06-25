@@ -1,0 +1,20 @@
+========================================
+           MODEL EVALUATION METRICS           
+========================================
+Accuracy             : 0.7640
+Precision            : 0.6667
+Recall               : 0.0496
+F1-Score             : 0.0923
+ROC-AUC              : 0.6996
+Gini Coefficient     : 0.3992
+========================================
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ Non-Default       0.77      0.99      0.86       379
+     Default       0.67      0.05      0.09       121
+
+    accuracy                           0.76       500
+   macro avg       0.72      0.52      0.48       500
+weighted avg       0.74      0.76      0.68       500
